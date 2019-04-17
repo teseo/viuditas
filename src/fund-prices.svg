@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="58px" height="51px" viewBox="0 0 58 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>D9FD6612-56AF-4ACE-B3A8-535EE5967AC2</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="32" width="11" height="12" rx="3"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="11" height="12" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="15" y="20" width="11" height="24" rx="3"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="11" height="24" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="30" y="27" width="11" height="17" rx="3"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="11" height="17" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="45" y="14" width="11" height="30" rx="3"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="11" height="30" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+    </defs>
+    <g id="UI-Kit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Elements-/-Iconography-(New)" transform="translate(-856.000000, -789.000000)">
+            <g id="Positive" transform="translate(159.000000, 228.000000)">
+                <g id="Row-2" transform="translate(8.000000, 546.000000)">
+                    <g id="Icons-/-Big-/-Red-/-Fund-Prices-1" transform="translate(689.000000, 0.000000)">
+                        <g id="Icon" transform="translate(1.000000, 16.000000)">
+                            <path d="M-0.0001,49 L56,49" id="Stroke-9" stroke="#D73E42" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <use id="Rectangle-Copy-2" stroke="#D73E42" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+                            <use id="Rectangle-Copy-2" stroke="#D73E42" mask="url(#mask-4)" stroke-width="4" xlink:href="#path-3"></use>
+                            <use id="Rectangle-Copy-2" stroke="#D73E42" mask="url(#mask-6)" stroke-width="4" xlink:href="#path-5"></use>
+                            <use id="Rectangle-Copy-2" stroke="#D73E42" mask="url(#mask-8)" stroke-width="4" xlink:href="#path-7"></use>
+                            <g id="Arrow" transform="translate(5.000000, 0.000000)" stroke-linecap="round" stroke-width="2" stroke="#D32A2E" stroke-linejoin="round">
+                                <polyline id="Stroke-12" points="0.4383 26.7367 15.4563 8.8897 30.3983 21.3397 45.6513 0.3897"></polyline>
+                                <polyline id="Stroke-14" points="39.2806 0.8324 45.9616 0.0004 46.7936 6.6814"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
